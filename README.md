@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/135923346-356d7624-d95e-4ca0-90c0-1fe3f950a669.png" align="left" height="150px" width="150px">
+    <h1># Explorando Padrões de Projetos na Prática com Java</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Padões de Projeos na prática. Para isso, você pode reproduzir um dos projetos que criamos durante as aulas ou, caso se sinta preparado, desenvolver uma nova ideia do zero.
     </p>
 </p>      
 
